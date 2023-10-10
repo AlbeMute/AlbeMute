@@ -21,9 +21,11 @@
   - For 2 and a half years, I spent more than 80 days just watching anime and reading manga))
 
   ## Contact information
-  📧 Email: lopin7653@gmail.com and Maksimov.SS@edu.spbstu.ru
-  <h3>💼 Telegram:<a href="https://t.me/Stanislaw121" target="_blank"> Stanislav_Maksimov</a>
-  
+    📧 Email: lopin7653@gmail.com and Maksimov.SS@edu.spbstu.ru
+<h3>💼 Telegram:<a href="https://t.me/Stanislaw121" target="_blank"> Stanislav_Maksimov</a>
+  <h3> Vk:<a href="https://vk.com/albemute" target="_blank"> Stanislav_Maksimov</a> 
+
+   ###Thank you for visiting my page, come again!
 <!--
 **AlbeMute/AlbeMute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
