@@ -8,7 +8,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Student from Russia 🇷🇺</h3>
 
-- I am currently a 1st year student of radio engineering of Peter the Great St. Petersburg Polytechnic University.
+- I am currently a 2nd year student of radio engineering of Peter the Great St. Petersburg Polytechnic University.
 - On this page you can easily find my contacts and work related to writing various programs 🤔.
   
   ## Education
